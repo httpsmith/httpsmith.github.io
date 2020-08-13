@@ -17,9 +17,8 @@
       <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
       
       <guid>https://www.httpsmith.com/blueprints/normal-cacheable/</guid>
-      <description>aaa a
-asdasdadsadsa
-   header example Description     Content-Type a path to data files to supply the data that will be passed into templates.   Assemble a engine to be used for processing templates. Handlebars is the default.   ext a extension to be used for dest files.    </description>
+      <description>Basic description: The &amp;ldquo;usual&amp;rdquo; page is something that do not change much when published and can be cached in a CND or in the user browser. As caching is a notoriously complex topic, it is not we are not going to discuss cache policy.
+Headers    header example value Description     Content-Type text/html; charset=UTF-8 The document is a html and the character encoding is UTF-8   Etag meaningleshash A hash of the content    </description>
     </item>
     
   </channel>

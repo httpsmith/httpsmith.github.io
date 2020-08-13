@@ -8,18 +8,23 @@
   </url>
   
   <url>
-    <loc>https://www.httpsmith.com/blueprints/</loc>
+    <loc>https://www.httpsmith.com/headers/etag/</loc>
     <lastmod>2020-08-10T18:20:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.httpsmith.com/blueprints/</loc>
+    <lastmod>2020-08-13T18:20:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.httpsmith.com/categories/</loc>
-    <lastmod>2020-08-10T18:20:27+02:00</lastmod>
+    <lastmod>2020-08-13T18:20:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.httpsmith.com/categories/content-type/</loc>
-    <lastmod>2020-08-10T18:20:27+02:00</lastmod>
+    <lastmod>2020-08-13T18:20:27+02:00</lastmod>
   </url>
   
   <url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://www.httpsmith.com/blueprints/normal-cacheable/</loc>
-    <lastmod>2020-08-10T18:20:27+02:00</lastmod>
+    <lastmod>2020-08-13T18:20:27+02:00</lastmod>
   </url>
   
   <url>

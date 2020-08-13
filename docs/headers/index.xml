@@ -17,7 +17,16 @@
       <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
       
       <guid>https://www.httpsmith.com/headers/content-type/</guid>
-      <description>aaa a</description>
+      <description>Definition The &amp;ldquo;Content-Type&amp;rdquo; header field indicates the media type of the associated representation: either the representation enclosed in the message payload or the selected representation, as determined by the message semantics. The indicated media type defines both the data format and how that data is intended to be processed by a recipient, within the scope of the received message semantics, after any content codings indicated by Content-Encoding are decoded. rfc7231</description>
+    </item>
+    
+    <item>
+      <title>Etag</title>
+      <link>https://www.httpsmith.com/headers/etag/</link>
+      <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
+      
+      <guid>https://www.httpsmith.com/headers/etag/</guid>
+      <description>Definition The &amp;ldquo;ETag&amp;rdquo; header field in a response provides the current entity-tag for the selected representation, as determined at the conclusion of handling the request. An entity-tag is an opaque validator for differentiating between multiple representations of the same resource, regardless of whether those multiple representations are due to resource state changes over time, content negotiation resulting in multiple representations being valid at the same time, or both. An entity-tag consists of an opaque quoted string, possibly prefixed by a weakness indicator.</description>
     </item>
     
   </channel>

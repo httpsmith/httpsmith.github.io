@@ -5,16 +5,6 @@ lastmod: 2020-08-10T18:20:27+02:00
 publishdate: 2020-08-10T18:20:27+02:00
 description: "HTTP Smith - description"
 ---
-### aaa
+## Why?
 
-aszdffa
-sdf
-asdf
-as
-df
-asd
-fas
-df
-asdf
-asdfasdfasdfasdf asdf asdf asdf asf 
-
+Because every good "smith" needs a good toolbox
