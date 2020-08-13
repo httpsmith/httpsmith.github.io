@@ -7,7 +7,7 @@ description: "etag"
 weight: 10
 ---
 ## Definition
-The "ETag" header field in a response provides the current entity-tag
+> The "ETag" header field in a response provides the current entity-tag
    for the selected representation, as determined at the conclusion of
    handling the request.  An entity-tag is an opaque validator for
    differentiating between multiple representations of the same

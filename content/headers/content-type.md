@@ -7,7 +7,7 @@ description: "Content-Type"
 weight: 10
 ---
 ## Definition
-The "Content-Type" header field indicates the media type of the
+> The "Content-Type" header field indicates the media type of the
    associated representation: either the representation enclosed in the
    message payload or the selected representation, as determined by the
    message semantics.  The indicated media type defines both the data
