@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTTP Smith</title>
+    <link>https://www.httpsmith.com/</link>
+    <description>Recent content on HTTP Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 18:20:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.httpsmith.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content-Type</title>
+      <link>https://www.httpsmith.com/headers/content-type/</link>
+      <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
+      
+      <guid>https://www.httpsmith.com/headers/content-type/</guid>
+      <description>aaa a</description>
+    </item>
+    
+    <item>
+      <title>Normale Cacheable Page</title>
+      <link>https://www.httpsmith.com/blueprints/normal-cacheable/</link>
+      <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
+      
+      <guid>https://www.httpsmith.com/blueprints/normal-cacheable/</guid>
+      <description>aaa a
+asdasdadsadsa
+   header example Description     Content-Type a path to data files to supply the data that will be passed into templates.   Assemble a engine to be used for processing templates. Handlebars is the default.   ext a extension to be used for dest files.    </description>
+    </item>
+    
+  </channel>
+</rss>

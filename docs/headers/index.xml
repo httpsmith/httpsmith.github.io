@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Headers on HTTP Smith</title>
+    <link>https://www.httpsmith.com/headers/</link>
+    <description>Recent content in Headers on HTTP Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 18:20:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.httpsmith.com/headers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content-Type</title>
+      <link>https://www.httpsmith.com/headers/content-type/</link>
+      <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
+      
+      <guid>https://www.httpsmith.com/headers/content-type/</guid>
+      <description>aaa a</description>
+    </item>
+    
+  </channel>
+</rss>

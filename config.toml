@@ -1,0 +1,11 @@
+baseURL = "https://www.httpsmith.com/"
+languageCode = "en-us"
+title = "HTTP Smith"
+theme = "techdoc"
+publishDir = "docs"
+
+[params]
+menu_style = "open-menu"
+
+[outputs]
+home = ["HTML", "RSS"]
