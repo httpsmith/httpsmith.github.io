@@ -6,6 +6,7 @@ publishDir = "docs"
 
 [params]
 menu_style = "open-menu"
+tag_manager_container_id = "GTM-K6GS2N8"
 
 [outputs]
 home = ["HTML", "RSS"]
