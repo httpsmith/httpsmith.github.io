@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Content-Type on HTTP Smith</title>
-    <link>https://www.httpsmith.com/categories/content-type/</link>
-    <description>Recent content in Content-Type on HTTP Smith</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 18:20:27 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.httpsmith.com/categories/content-type/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Normale Cacheable Page</title>
-      <link>https://www.httpsmith.com/blueprints/normal-cacheable/</link>
-      <pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate>
-      
-      <guid>https://www.httpsmith.com/blueprints/normal-cacheable/</guid>
-      <description>Basic description: The &amp;ldquo;usual&amp;rdquo; page is something that do not change much when published and can be cached in a CND or in the user browser. As caching is a notoriously complex topic, it is not we are not going to discuss cache policy.
-Headers    header example value Description     Content-Type text/html; charset=UTF-8 The document is a html and the character encoding is UTF-8   Etag meaningleshash A hash of the content    </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content-Type on HTTP Smith</title><link>https://www.httpsmith.com/categories/content-type/</link><description>Recent content in Content-Type on HTTP Smith</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 18:20:27 +0200</lastBuildDate><atom:link href="https://www.httpsmith.com/categories/content-type/index.xml" rel="self" type="application/rss+xml"/><item><title>Normale Cacheable Page</title><link>https://www.httpsmith.com/blueprints/normal-cacheable/</link><pubDate>Mon, 10 Aug 2020 18:20:27 +0200</pubDate><guid>https://www.httpsmith.com/blueprints/normal-cacheable/</guid><description>Basic description: The &amp;ldquo;usual&amp;rdquo; page is something that do not change much when published and can be cached in a CND or in the user browser. As caching is a notoriously complex topic, it is not we are not going to discuss cache policy.
+Headers header example value Description Content-Type text/html; charset=UTF-8 The document is a html and the character encoding is UTF-8 Etag meaningleshash A hash of the content</description></item></channel></rss>

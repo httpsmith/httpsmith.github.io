@@ -1,2 +1,2 @@
 rm -rf docs/
-hugo
+hugo --minify
